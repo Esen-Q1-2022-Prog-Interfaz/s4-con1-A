@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu+Mono:wght@400;700&display=swap');
+
+* {
+    /* step 01 */
+}
+
+div {
+    margin: 2em 1em;
+}
+
+a {
+    /* step 02 */
+    /* colors red, white, darkred*/
+    /* radius 10px */
+}
+
+a:hover {
+    /* step 02 */
+    /* colors grey*/
+}
